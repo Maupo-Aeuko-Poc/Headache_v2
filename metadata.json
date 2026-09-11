@@ -1,0 +1,6 @@
+{
+  "name": "Headache",
+  "description": "A depraved, eerie, and rugged 2D psychological horror platformer inspired by Super Mario and Hollow Knight where you flee your smug alter ego through shifting surreal biomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
